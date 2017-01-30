@@ -1,2 +1,2 @@
 javac *.java
-java org.junit.runner.JUnitCore DoggyTest
+java org.junit.runner.JUnitCore FibonacciTest
